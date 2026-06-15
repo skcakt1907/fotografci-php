@@ -14,6 +14,7 @@ PHP + MySQL + Bootstrap 5 ile kurumsal/hizmet sektörleri için hazır web sites
 | **Restoran / Kafe** | `restoran-php/` | Kırmızı #c0392b | `restoran_db` | ✅ |
 | **Kuaför / Güzellik** | `kuafor-php/` | Pembe #d63384 | `kuafor_db` | ✅ |
 | **Muhasebe / Mali Müşavirlik** | `muhasebe-php/` | Petrol Yeşili #0f766e | `muhasebe_db` | ✅ |
+| **Spor Salonu / Fitness** | `spor-salonu-php/` | Elektrik Mavi #0ea5e9 | `spor_salonu_db` | ✅ |
 
 ## 🚀 Hızlı Başlangıç
 
