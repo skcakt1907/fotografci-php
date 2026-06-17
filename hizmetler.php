@@ -1,8 +1,8 @@
 <?php require_once __DIR__ . '/inc/header.php'; $hizmetler = getList('hizmetler','durum=1','sira ASC'); ?>
 <section class="page-head">
   <div class="container">
-    <h1>Hizmetlerimiz</h1>
-    <nav><ol class="breadcrumb"><li class="breadcrumb-item"><a href="<?= SITE_URL ?>/">Anasayfa</a></li><li class="breadcrumb-item active">Hizmetler</li></ol></nav>
+    <h1>Çekim Türleri</h1>
+    <nav><ol class="breadcrumb"><li class="breadcrumb-item"><a href="<?= SITE_URL ?>/">Anasayfa</a></li><li class="breadcrumb-item active">Çekim Türleri</li></ol></nav>
   </div>
 </section>
 
@@ -10,7 +10,7 @@
   <div class="container">
     <div class="section-head center">
       <span class="badge-mini">Ne Yapıyoruz?</span>
-      <h2>Sunduğumuz <span>Ana Hizmetler</span></h2>
+      <h2>Sunduğumuz <span>Çekim Hizmetleri</span></h2>
       <p>Alanımızdaki uzmanlığımızla ihtiyacınıza özel çözümler üretiyoruz.</p>
     </div>
     <div class="row g-4">
